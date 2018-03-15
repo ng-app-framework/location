@@ -57,6 +57,7 @@
             "name": "ng-app-location",
             "entryFile": "index.ts",
             "externals": {
+                "@angular/core": "angular",
                 "rxjs/Rx": "rxjs"
             }
         }
